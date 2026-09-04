@@ -1,0 +1,24 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Word Vector Tool"
+    url: https://your-reclaim-cloud-url.com/
+    target: _blank
+
+  - title: "Research"
+    children:
+      - title: "Argument"
+        url: /research/argument/
+      - title: "Case Studies"
+        url: /research/casestudies/
+      - title: "Corpus"
+        url: /research/corpus/
+      - title: "References"
+        url: /research/references/
+
+  - title: "Methodology"
+    url: /methodology/
