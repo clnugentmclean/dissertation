@@ -7,7 +7,11 @@ permalink: /research/casestudies/
 I chose these three case studies because they have been identified by other historians as significant moments in the construction of the British perception of Muslims as inherently ‘violent’ and ‘fanatical’. These were also moments of insecurity for the British Empire, in varying degrees, and I demonstrate that British rhetoric was more vitriolic in moments of insecurity. Islam, and the public perception of it, played a significant role in all these events, and, more importantly, these events also spurred significant discursive activity that reveals the way Britons themselves talked about Islam. 
 
 ##### [Sepoy Rebellion](https://clnugentmclean.github.io/dissertation/research/casestudies/rebellion/)
+
+<details>
+<summary><strong>1857 Sepoy Rebellion</strong></summary>
 My first case study is the 1857 Rebellion in colonial India. The Rebellion, sometimes referred to as the Indian Mutiny or the Sepoy Mutiny, was a major uprising against the rule of the British East India Company, and ran from May 1857 until November 1858. This was a watershed moment in the history of the British press and anti-Muslim rhetoric. The Rebellion was the second international and first colonial event, after the Crimean War, to receive widespread coverage in a markedly expanding British press. This occurred concurrently with a stark reduction in taxes on printing, meaning more Britons were reading newspapers in the mid nineteenth century than ever before. The frequent attention in the British press given to the Rebellion made it a salient issue for both contemporary Britons and historians of the British Empire. Ilyse Morgenstein Fuerst argues that the Rebellion was the moment that Muslims became defined by the British as essentially religious actors.  The way the British categorized religion in India dramatically changed how religion—as a category—was applied to people across the British Empire and within the borders of the metropole. Religion, along with race, became a central node for how the British classified colonized people in the Empire. Specifically, the Rebellion was a crucial event in the racialization of Muslims as a group under imperial classifications.  
+</details>
 
 
 ##### [1898](https://clnugentmclean.github.io/dissertation/research/casestudies/1898/) 
