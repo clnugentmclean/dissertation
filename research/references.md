@@ -131,105 +131,119 @@ Anderson, Clare. *The Indian Uprisings of 1857-8: Prisons, Prisoners, and Rebell
 
 Anthony, Lawrence. AntConc. V. 4.3.1. Waseda University, n.d.
 
-Arjana, Sophia Rose. Muslims in the Western Imagination. Oxford University Press, 2015.
-Asad, Talal. “Multiculturalism and British Identity in the Wake of the Rushdie Affair.” Politics & 
-Society 18, no. 4 (1990): 455–80.
-Avci, Remi. “Pan-Islamism and the Jihad Discourse of the German Orientalists in the First World 
-War.” Jurnal Al-Tamaddun 14, no. 2 (2019).
-Aydin, Cemil. The Idea of the Muslim World: A Global Intellectual History. Harvard University 
-Press, 2017.
-Ballantyne, Tony, and Antoinette Burton. Bodies in Contact: Rethinking Colonial Encounters in 
-World History. University of Illinois Press, 2005.
-Blankenship, Avery. “Word Vector Model Evaluation.” Women Writers Project, n.d. 
-https://wwp.northeastern.edu/outreach/seminars/_current/handouts/word_vectors/evaluation.html.
+Arjana, Sophia Rose. *Muslims in the Western Imagination*.* Oxford University Press, 2015.
+
+Asad, Talal. “Multiculturalism and British Identity in the Wake of the Rushdie Affair.” *Politics & Society* 18, no. 4 (1990): 455–80.
+
+Avci, Remi. “Pan-Islamism and the Jihad Discourse of the German Orientalists in the First World War.” *Jurnal Al-Tamaddun* 14, no. 2 (2019).
+
+Aydin, Cemil. *The Idea of the Muslim World: A Global Intellectual History.* Harvard University Press, 2017.
+
+Ballantyne, Tony, and Antoinette Burton. *Bodies in Contact: Rethinking Colonial Encounters in World History.* University of Illinois Press, 2005.
+
+Blankenship, Avery. “Word Vector Model Evaluation.” Women Writers Project, n.d. https://wwp.northeastern.edu/outreach/seminars/_current/handouts/word_vectors/evaluation.html.
+
 Blankenship, Avery, Sarah Connell, and Quinn Dombrowski. “Understanding and Creating Word 	Embeddings.” Programming Historian, 2020. 
 https://programminghistorian.org/en/lessons/understanding-creating-word-embeddings.
-Bose, Sugata, and Ayesha Jalal. Modern South Asia: History, Culture, Political Economy. 
-Routledge, 1998.
-Bowen, John R. On British Islam: Religion, Law, and Everyday Practices in Sharia Councils. 
-Princeton University Press, 2016.
-Bracke, Sarah, and Luis Aguilar. “‘They Love Death as We Love Life’: The Muslim Question 
-and the Biopolitics of Replacement.” BJS: The British Journal of Sociology 71, no. 4 (2020).
-Brown, Lucy. “The Growth of a National Press.” In Investigating Victorian Journalism, edited by 
-Laurel Brake, Aled Jones, and Lionel Madden. St Martin’s Press, 1990.
-Brown, Lucy. Victorian News and Newspapers. Claredon Press, 1985.
-Burbank, Jane, and Frederick Cooper. Empires in World History: Power and the Politics of 
-Difference. Princeton University Press, 2011.
-Burton, Antoinette. At the Heart of the Empire: Indians and the Colonial Encounter in Late-
-Victorian Britain. University of California Press, 1998.
-Burton, Antoinette. The Trouble with Empire: Challenges to Modern British Imperialism. Oxford 
-University Press, 2015.
-Blevins, Cameron. “Digital History’s Perpetual Future Tense.” In Debates in the Digital 
-Humanities 2016, with Lauren F Klein and Matthew K Gold. University of Minnesota Press, 2016.
-Carey, John, William V. Dunlap, and R. John Pritchard. International Humanitarian Law: 
-Origins, Challenges, Prospects. Transnational Publishers, 2003.
-Chaudhuri, S. B. Civil Rebellion in the Indian Mutinies, 1857-59. World Press, 1957.
-Chin, Rita. The Crisis of Multiculturalism in Europe: A History. Princeton University Press, 
-2017.
-Connell, Kieran. “The Rushdie Affair and the Politics of Multicultural Britain.” The Historical 
-Journal 67, no. 5 (2024): 1066–88.
-Cooper, Frederick. Colonialism in Question: Theory, Knowledge, History. University of 
-California Press, 2005.
-Detorakēs, Theocharēs Eustratiou. History of Crete. Iraklion, 1994.
-Ellingson, Ter. The Myth of the Noble Savage. University of California Press, 2001.
-Esposito, John L., and Ibrahim Kalin. Islamophobia: The Challenge of Pluralism in the 21st 
-Century. Cambridge University Press, 2011.
-Falkenhayner, N. Making the British Muslim: Representations of the Rushdie Affair and Figures 
-of the War-On-Terror Decade. Springer, 2014.
-Falkenhayner, Nicole. “The Other Rupture of 1989: The Rushdie Affair as the Inaugural Event of 
-Representations of Post-Secular Conflict.” Global Society : Journal of Interdisciplinary 
-International Relations 24, no. 1 (2010): 111–32.
-Faulkner, Neil. Empire and Jihad: The Anglo-Arab Wars of 1870-1920. Yale University Press, 
-2021.
-Ferguson, Niall. Empire: The Rise and Demise of the British World Order and the Lessons for 
-Global Power. Basic Books, 2008.
-Fowler, Bridget. “A Sociological Analysis of the Satanic Verses Affair.” Theory, Culture, and 
-Society 17, no. 1 (2000): 39–61.
+
+Bose, Sugata, and Ayesha Jalal. *Modern South Asia: History, Culture, Political Economy.* Routledge, 1998.
+
+Bowen, John R. *On British Islam: Religion, Law, and Everyday Practices in Sharia Councils.* Princeton University Press, 2016.
+
+Bracke, Sarah, and Luis Aguilar. “‘They Love Death as We Love Life’: The Muslim Question and the Biopolitics of Replacement.” *BJS: The British Journal of Sociology* 71, no. 4 (2020).
+
+Brown, Lucy. “The Growth of a National Press.” In *Investigating Victorian Journalism*, edited by Laurel Brake, Aled Jones, and Lionel Madden. St Martin’s Press, 1990.
+
+Brown, Lucy. *Victorian News and Newspapers*. Claredon Press, 1985.
+
+Burbank, Jane, and Frederick Cooper. *Empires in World History: Power and the Politics of Difference.* Princeton University Press, 2011.
+
+Burton, Antoinette. *At the Heart of the Empire: Indians and the Colonial Encounter in Late-Victorian Britain.* University of California Press, 1998.
+
+Burton, Antoinette. *The Trouble with Empire: Challenges to Modern British Imperialism.* Oxford University Press, 2015.
+
+Blevins, Cameron. “Digital History’s Perpetual Future Tense.” In *Debates in the Digital Humanities* 2016, with Lauren F Klein and Matthew K Gold. University of Minnesota Press, 2016.
+
+Carey, John, William V. Dunlap, and R. John Pritchard. *International Humanitarian Law: Origins, Challenges, Prospects.* Transnational Publishers, 2003.
+
+Chaudhuri, S. B. *Civil Rebellion in the Indian Mutinies*, 1857-59. World Press, 1957.
+
+Chin, Rita. *The Crisis of Multiculturalism in Europe: A History.* Princeton University Press, 2017.
+
+Connell, Kieran. “The Rushdie Affair and the Politics of Multicultural Britain.” *The Historical Journal* 67, no. 5 (2024): 1066–88.
+
+Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* University of California Press, 2005.
+
+Detorakēs, Theocharēs Eustratiou. *History of Crete.* Iraklion, 1994.
+
+Ellingson, Ter. *The Myth of the Noble Savage.* University of California Press, 2001.
+
+Esposito, John L., and Ibrahim Kalin. *Islamophobia: The Challenge of Pluralism in the 21st Century.* Cambridge University Press, 2011.
+
+Falkenhayner, N. *Making the British Muslim: Representations of the Rushdie Affair and Figures of the War-On-Terror Decade.* Springer, 2014.
+
+Falkenhayner, Nicole. “The Other Rupture of 1989: The Rushdie Affair as the Inaugural Event of Representations of Post-Secular Conflict.” *Global Society : Journal of Interdisciplinary International Relations* 24, no. 1 (2010): 111–32.
+
+Faulkner, Neil. *Empire and Jihad: The Anglo-Arab Wars of 1870-1920.* Yale University Press, 2021.
+
+Ferguson, Niall. *Empire: The Rise and Demise of the British World Order and the Lessons for Global Power.* Basic Books, 2008.
+
+Fowler, Bridget. “A Sociological Analysis of the Satanic Verses Affair.” *Theory, Culture, and Society* 17, no. 1 (2000): 39–61.
+
 Geaves, R. A. “India 1857: A Mutiny or a War of Independence? The Muslim Perspective.” 
-Islamic Studies 33, no. 1 (1996).
-Gopal, Priyamvada. Insurgent Empire: Anticolonial Resistance and British Dissent. Verso, 2019.
-Gordon, Michelle. “Viewing Violence in the British Empire: Images of Atrocity from the Battle 
-of Omdurman, 1898,”.” Journal of Perpetrator Research 2, no. 2 (2019): 65–100.
-Goswami, Manu. Producing India: From Colonial Economy to National Space. Oxford 
+*Islamic Studies* 33, no. 1 (1996).
+
+Gopal, Priyamvada. *Insurgent Empire: Anticolonial Resistance and British Dissent.* Verso, 2019.
+
+Gordon, Michelle. “Viewing Violence in the British Empire: Images of Atrocity from the Battle of Omdurman, 1898,” *Journal of Perpetrator Research* 2, no. 2 (2019): 65–100.
+
+Goswami, Manu. *Producing India: From Colonial Economy to National Space.* Oxford 
 University Press, 2004.
-Gottschalk, Peter. Religion, Science, and Empire: Classifying Hinduism and Islam in British 
-India. Oxford University Press, 2013.
-Guha, Ranajit. Dominance without Hegemony: History and Power in Colonial India. Oxford 
-University Press, 1988.
-Guldi, Jo. “The Revolution in Text Mining for Historical Analysis Is Here.” The American 
-Historical Review (Oxford) 129, no. 2 (2024): 519–43. https://doi.org/10.1093/ahr/rhae163.
-Hall, Catherine, and Sonya Rose. At Home With the Empire: Metropolitan Culture and the 
-Imperial World. Cambridge University Press, 2006.
-Hamid, Abdul. Muslim Separation in India: A Brief Survey. Oxford University Press, 1967.
-Hamid, Sadek. Young British Muslims: Between Rhetoric and Reality. Routledge, 2016.
-Harper, Marjory. Emigrant Homecomings: The Return Movement of Emigrants, 1600-2000. 
+
+Gottschalk, Peter. *Religion, Science, and Empire: Classifying Hinduism and Islam in British India.* Oxford University Press, 2013.
+
+Guha, Ranajit. *Dominance without Hegemony: History and Power in Colonial India.* Oxford University Press, 1988.
+
+Guldi, Jo. “The Revolution in Text Mining for Historical Analysis Is Here.” *The American Historical Review* (Oxford) 129, no. 2 (2024): 519–43. https://doi.org/10.1093/ahr/rhae163.
+
+Hall, Catherine, and Sonya Rose. *At Home With the Empire: Metropolitan Culture and the Imperial World.* Cambridge University Press, 2006.
+
+Hamid, Abdul. *Muslim Separation in India: A Brief Survey.* Oxford University Press, 1967.
+
+Hamid, Sadek. *Young British Muslims: Between Rhetoric and Reality.* Routledge, 2016.
+
+Harper, Marjory. *Emigrant Homecomings: The Return Movement of Emigrants, 1600-2000.* 
 Manchester University Press, 2005.
-Hasan, Tariq. Colonialism and the Call to Jihad in British India. SAGE Publications, 2015.
-Hashas, Mohammed. The Idea of European Islam: Religion, Ethics, Politics, and Perpetual 
-Modernity. Routledge, 2018.
-Hibbert, Christopher. The Great Mutiny: India, 1857. Viking Press, 1978.
-Hobbs, Andrew. “The Deleterious Dominance of The Times in Nineteenth-Century Scholarship.” 
-Journal of Victorian Culture 18, no. 4 (2013).
-Holland, R. F. (Robert F. ). Blue-Water Empire : The British in the Mediterranean since 1800. 
-With Internet Archive. London : Penguin, 2013. http://archive.org/details/bluewaterempireb0000holl.
-Huntington, Samuel. The Clash of Civilizations and the Remaking of the World Order. Simon & 
-Schuster, 1996.
-Jackson, Leonie B. Islamophobia in Britain: The Making of a Muslim Enemy. Palgrave 
+
+Hasan, Tariq. *Colonialism and the Call to Jihad in British India.* SAGE Publications, 2015.
+
+Hashas, Mohammed. *The Idea of European Islam: Religion, Ethics, Politics, and Perpetual Modernity.* Routledge, 2018.
+
+Hibbert, Christopher. *The Great Mutiny: India, 1857.* Viking Press, 1978.
+
+Hobbs, Andrew. “The Deleterious Dominance of *The Times* in Nineteenth-Century Scholarship.” *Journal of Victorian Culture* 18, no. 4 (2013).
+
+Holland, R. F. (Robert F. ). *Blue-Water Empire : The British in the Mediterranean since 1800.* London : Penguin, 2013. 
+
+Huntington, Samuel. *The Clash of Civilizations and the Remaking of the World Order.* Simon & Schuster, 1996.
+
+Jackson, Leonie B. *Islamophobia in Britain: The Making of a Muslim Enemy.* Palgrave 
 Macmillan, 2018.
-Jenkins, Phillip. God’s Continent: Christianity, Islam, and Europe’s Religious Crisis. 2007.
-Jenkins, Phillip. The Great and Holy War: How World War I Became a Religious Crusade. 
-Oxford University Press, 2009.
-Jennings, Jeremy. Intellectuals in Politics from the Dreyfus Affair to the Rushdie Affair. 
-Routledge, 1997.
-Jockers, Matthew, and Julia Flanders. “A Matter of Scale.” Department of English: Faculty 
-Publications, March 18, 2013. https://digitalcommons.unl.edu/englishfacpubs/106.
-Johnson Juniper, Julia Flanders, and Sarah Connell. “Introduction to Word Embedding Models.”
- Women Writers Vector Toolkit, 2019. 
-https://wwp.northeastern.edu/lab/wwvt/resources/introduction/index.html.
-Jung, Dietrich. “The ‘Ottoman-German Jihad’: Lessons for the Contemporary ‘Area Studies’ 
-Controversy.” British Journal of Middle Eastern Studies 41, no. 3 (2014): 247–65.
-Kirilloff, Gabi. “Computation as Context: New Approches to the Close/Distant Reading Debate,” 
-College Literature 49, no. 1 (2022): 1–25.
+
+Jenkins, Phillip. *God’s Continent: Christianity, Islam, and Europe’s Religious Crisis.* 2007.
+
+Jenkins, Phillip. *The Great and Holy War: How World War I Became a Religious Crusade.* Oxford University Press, 2009.
+
+Jennings, Jeremy. *Intellectuals in Politics from the Dreyfus Affair to the Rushdie Affair.* Routledge, 1997.
+
+Jockers, Matthew, and Julia Flanders. “A Matter of Scale.” Department of English: Faculty Publications, March 18, 2013. https://digitalcommons.unl.edu/englishfacpubs/106.
+
+Johnson Juniper, Julia Flanders, and Sarah Connell. “Introduction to Word Embedding Models.” Women Writers Vector Toolkit, 2019. https://wwp.northeastern.edu/lab/wwvt/resources/introduction/index.html.
+
+Jung, Dietrich. “The ‘Ottoman-German Jihad’: Lessons for the Contemporary ‘Area Studies’ Controversy.” *British Journal of Middle Eastern Studies* 41, no. 3 (2014): 247–65.
+
+Kirilloff, Gabi. “Computation as Context: New Approches to the Close/Distant Reading Debate,” *College Literature* 49, no. 1 (2022): 1–25.
+
 Kirmizialtin, Suphan, and David Joseph Wrisley. “Exploring Gulf Manumission with Word 
 Vectors.” Journal of Islamicate Research 2 (2024): 1–29.
 Kitagawa, Risa, and Fiona Shen-Bayn. “Measuring Political Narratives in African News Media: 
