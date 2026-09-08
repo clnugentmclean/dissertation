@@ -5,79 +5,120 @@ permalink: /research/references/
 ---
 
 ## Primary
-Ahmad, Rafiuddin. “The Battle of Omdurman and the Mussulman World.” Nineteenth Century 
-44, nos. 688–696 (1898).
-Akhbar. “The Indian Mutiny.” The Times, July 2, 1857.
-BBC. “Ayatollah Sentences Author to Death.” February 14, 1989.
-Buchan, John. Greenmantle. Hodder & Stoughton, 1916.
-Burleigh, Bennet. Khartoum Campaign, 1898: Or the Re-Conquest of the Soudan. Chapman & 
-Hall, 1899.
-Calcutta Correspondent. “The Bengal Mutinies.” The Times, June 15, 1857.
-Churchill, Winston. The River War. Longmans, Green and Co., 1899.
-Correspondent in Syria. “The Omen. Calling the Faithful to a Holy War.” The Times, March 20, 
-1915.
-Davenport, Peter. “Bradford Churchmen Try to Ease Tension.” The Times, February 16, 1989.
-Hancock, A. G. The Siege of Delhi in 1857. A Short Account. Pioneer Press, 1899.
-Hurgronje, Christian Snouck. Heilige Oorlog Made in Germany. London, 1915.
-Kilroy-Silk, Robert. The Times. “Meeting the mob halfway,” January 27, 1989.
-Longley, Clifford. The Times. “Making Peace with Muslims,” February 25, 1989.
+Ahmad, Rafiuddin. “The Battle of Omdurman and the Mussulman World.” *Nineteenth Century* 44, nos. 688–696 (1898).
 
-MacDonald, J. H. “The Mahommedans in India.” The Times, September 11, 1857.
-Marriott, J. W. India and Its Mutiny: A Lecture. Delivered Before the Halifax Young Men’s 
-Christian Association, on Tuesday Evening, March 16, 1858". The Wesleyan Conference 
-Steam Press, 1858.
-Nichols, Aidan. “Lessons of the Lefebvre Affair.” The Times, December 19, 1988.
-Nicholson, Michael. “The Satanic Verses.” The Times, January 20, 1989.
-Ohrwalder, Joseph, and Reginald Wingate. Ten Years’ Capitivity in the Mahdi’s Camp 1882-
-1892. Heinemann and Balestier, 1893.
-Our Correspondent in Rome. “Serious Rioting in Rome.” The Times, March 11, 1914.
-Our Own Correspondent. “Turkey.” The Times, March 27, 1858.
-Pall Mall Gazette. “Occasional News.” September 8, 1898.
-Pall Mall Gazette. “Occasional News.” September 12, 1898.
-Rhodes, Colonel F. “The Battle of Omdurman.” The Times, September 16, 1898.
-Sedgwick, F. R. The Indian Mutiny of 1857. A Sketch of the Principal Military Events. Foster 
-Groom & Co, 1919.
-Slatin, Rudolf C. Fire and Sword in the Sudan: A Personal Narrative of Fighting and Serving the 
-Dervishes. Edward Arnold, 1896.
-Tendler, Stewart, Andrew McEwen, and Nicholas Beeston. “Bodyguard for Rushdie after Death 
-Threat.” The Times, February 15, 1989.
-The Indian Mutiny. Thoughts and Facts. London, 1857.
-The Times Digital Archive: January 1 1856–December 31 1859; January 1 1897–December 31 
-1899; January 1 1913–December 31 1915; December 1 1988–March 31, 1989.
-The Times. “American View of Turkey’s Actions.” November 2, 1914.
-The Times. “Arts Diary.” March 4, 1898.
-The Times. “Britain’s Rioteous Causes.” September 6, 1914.
-The Times. “Day of Humiliation.” September 28, 1857.
-The Times. “Fantastic German News in Turkey. Appeals to Pan-Islamic Feeling.” September 5, 
-1914.
-The Times. “Four-Ball Match and Foursome.” April 22, 1914.
-The Times. “Friday Page.” February 17, 1989.
-The Times. “German Methods in the East.” December 15, 1914.
-The Times. “In the Midst of Our Rejoicings over the Victory.” September 7, 1898.
-The Times. “Index: Crete.” September 7, 1898.
-The Times. “India.” November 30, 1857.
-The Times. “Islamic Intolerance.” January 17, 1989.
-The Times. “London, Friday, January 1, 1858.” January 1, 1858.
-The Times. “Outbreak at Candia.” September 7, 1898.
-The Times. “The Church and Imperial Policy.” September 29, 1898.
-The Times. “The Indian Mutiny.” January 29, 1858.
-The Times. “The Kaiser on the ‘Holy War.’” November 19, 1914.
-The Times. “The Later Account of the Riot at Candia.” September 8, 1898.
-The Times. “The Massacre at Jeddah.” July 17, 1858.
-The Times. “The Religious Aspect of the Indian Crisis.” October 9, 1857.
-The Times. “The Situation in Crete.” February 1, 1897.
-The Times. “The State of Crete.” February 8, 1898.
-The Times. “The Sudan.” April 9, 1898.
-Wilson, John. The Indian Mutiny Revolt Viewed in Its Religious Aspects: A Lecture Delivered in 
-Bombay on the 14th and 16th August, 1857. Smith, Taylor and Co., 1857.
+Akhbar. “The Indian Mutiny.” *The Times*, July 2, 1857.
+
+*BBC*. “Ayatollah Sentences Author to Death.” February 14, 1989.
+
+Buchan, John. *Greenmantle*. Hodder & Stoughton, 1916.
+
+Burleigh, Bennet. *Khartoum Campaign, 1898: Or the Re-Conquest of the Soudan.* Chapman & Hall, 1899.
+
+Calcutta Correspondent. “The Bengal Mutinies.” *The Times*, June 15, 1857.
+
+Churchill, Winston. *The River War*. Longmans, Green and Co., 1899.
+
+Correspondent in Syria. “The Omen. Calling the Faithful to a Holy War.” *The Times*, March 20, 1915.
+
+Davenport, Peter. “Bradford Churchmen Try to Ease Tension.” *The Times*, February 16, 1989.
+
+Hancock, A. G. *The Siege of Delhi in 1857. A Short Account.* Pioneer Press, 1899.
+
+Hurgronje, Christian Snouck. *Heilige Oorlog Made in Germany.* London, 1915.
+
+Kilroy-Silk, Robert. “Meeting the mob halfway,” *The Times*, January 27, 1989.
+
+Longley, Clifford. “Making Peace with Muslims,” *The Times*, February 25, 1989.
+
+MacDonald, J. H. “The Mahommedans in India.” *The Times*, September 11, 1857.
+
+Marriott, J. W. "India and Its Mutiny: A Lecture. Delivered Before the Halifax Young Men’s Christian Association, on Tuesday Evening, March 16, 1858". *The Wesleyan Conference Steam Press*, 1858.
+
+Nichols, Aidan. “Lessons of the Lefebvre Affair.” *The Times*, December 19, 1988.
+
+Nicholson, Michael. “The Satanic Verses.” *The Times*, January 20, 1989.
+
+Ohrwalder, Joseph, and Reginald Wingate. *Ten Years’ Capitivity in the Mahdi’s Camp 1882-1892.* Heinemann and Balestier, 1893.
+
+Our Correspondent in Rome. “Serious Rioting in Rome.” *The Times*, March 11, 1914.
+
+Our Own Correspondent. “Turkey.” *The Times*, March 27, 1858.
+
+“Occasional News.” *Pall Mall Gazette*, September 8, 1898.
+
+“Occasional News.” *Pall Mall Gazette*, September 12, 1898.
+
+Rhodes, Colonel F. “The Battle of Omdurman.” *The Times*, September 16, 1898.
+
+Sedgwick, F. R. *The Indian Mutiny of 1857. A Sketch of the Principal Military Events.* Foster Groom & Co, 1919.
+
+Slatin, Rudolf C. *Fire and Sword in the Sudan: A Personal Narrative of Fighting and Serving the Dervishes.* Edward Arnold, 1896.
+
+Tendler, Stewart, Andrew McEwen, and Nicholas Beeston. “Bodyguard for Rushdie after Death Threat.” *The Times*, February 15, 1989.
+
+*The Indian Mutiny. Thoughts and Facts.* London, 1857.
+
+*The Times Digital Archive*: January 1 1856–December 31 1859; January 1 1897–December 31 1899; January 1 1913–December 31 1915; December 1 1988–March 31, 1989.
+
+*The Times*. “American View of Turkey’s Actions.” November 2, 1914.
+
+*The Times*. “Arts Diary.” March 4, 1898.
+
+*The Times*. “Britain’s Rioteous Causes.” September 6, 1914.
+
+*The Times*. “Day of Humiliation.” September 28, 1857.
+
+*The Times*. “Fantastic German News in Turkey. Appeals to Pan-Islamic Feeling.” September 5, 1914.
+
+*The Times*. “Four-Ball Match and Foursome.” April 22, 1914.
+
+*The Times*. “Friday Page.” February 17, 1989.
+
+*The Times*. “German Methods in the East.” December 15, 1914.
+
+*The Times*. “In the Midst of Our Rejoicings over the Victory.” September 7, 1898.
+
+*The Times*. “Index: Crete.” September 7, 1898.
+
+*The Times*. “India.” November 30, 1857.
+
+*The Times*. “Islamic Intolerance.” January 17, 1989.
+
+*The Times*. “London, Friday, January 1, 1858.” January 1, 1858.
+
+*The Times*. “Outbreak at Candia.” September 7, 1898.
+
+*The Times*. “The Church and Imperial Policy.” September 29, 1898.
+
+*The Times*. “The Indian Mutiny.” January 29, 1858.
+
+*The Times*. “The Kaiser on the ‘Holy War.’” November 19, 1914.
+
+*The Times*. “The Later Account of the Riot at Candia.” September 8, 1898.
+
+*The Times*. “The Massacre at Jeddah.” July 17, 1858.
+
+*The Times*. “The Religious Aspect of the Indian Crisis.” October 9, 1857.
+
+*The Times*. “The Situation in Crete.” February 1, 1897.
+
+*The Times*. “The State of Crete.” February 8, 1898.
+
+*The Times*. “The Sudan.” April 9, 1898.
+
+Wilson, John. *The Indian Mutiny Revolt Viewed in Its Religious Aspects: A Lecture Delivered in Bombay on the 14th and 16th August, 1857.* Smith, Taylor and Co., 1857.
+
 ## Secondary
-Abbas, Sadia. At Freedom’s Limit: Islam and the Postcolonial Predicament. Fordham University 
-Press, 2014.
-Abdelhalim, Julten. Indian Muslims and Citizenship: Spaces for Jihad in Everyday. Routledge, 
-2016.
-Ahmad, Syed Nesar. Origins of Muslim Consciousness in India. Greenwood Press, 2004.
-Aksakal, Mustafa. “Holy War Made in Germany? Ottoman Origins of the 1914 Jihad.” War in 
-History 18, no. 2 (2011): 184–99.
+
+Abbas, Sadia. *At Freedom’s Limit: Islam and the Postcolonial Predicament*. Fordham University Press, 2014.
+
+Abdelhalim, Julten. *Indian Muslims and Citizenship: Spaces for Jihad in Everyday*. Routledge, 2016.
+
+Ahmad, Syed Nesar. *Origins of Muslim Consciousness in India*. Greenwood Press, 2004.
+
+Aksakal, Mustafa. “Holy War Made in Germany? Ottoman Origins of the 1914 Jihad.” *War in History* 18, no. 2 (2011): 184–99.
+
 Aksakal, Mustafa. The Ottoman Road to War in 1914 the Ottoman Empire and the First World 
 War. With ProQuest. Cambridge Military Histories. Cambridge University Press, 2008.
 Alammar, Jay. The Illustrated Word2vec. March 27, 2019. 
