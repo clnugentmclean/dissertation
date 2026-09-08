@@ -3,7 +3,6 @@ title: "Methodology"
 layout: single
 permalink: /methodology/
 ---
-Methodology content here. Again, pull this from the diss itself
 
 There are various ways to use digital tools and methods to analyze a corpus of plain text documents. This project primarily uses word embedding models and AntConc. Word embedding models are “a set of techniques from machine learning and natural language processing (NLP) that model textual data numerically, using mathematical relationships like vectors to map semantic relationships between words in a corpus.”  To put it another way, word embedding models are able to analyze the ways in which words appear in similar contexts in a corpus, as well as being able to process very large amounts of textual data. These models require a large amount of data from which the algorithm “learns” the contexts between words.  For example, take the names of days of the week like “Monday” and “Tuesday.” Models trained on most corpora will likely find that the closest words to these terms (that is, the words that share similar linguistic contexts) are other days of the week, even though these words do not necessarily appear near each other in the corpus.
 
