@@ -119,19 +119,18 @@ Ahmad, Syed Nesar. *Origins of Muslim Consciousness in India*. Greenwood Press, 
 
 Aksakal, Mustafa. “Holy War Made in Germany? Ottoman Origins of the 1914 Jihad.” *War in History* 18, no. 2 (2011): 184–99.
 
-Aksakal, Mustafa. The Ottoman Road to War in 1914 the Ottoman Empire and the First World 
-War. With ProQuest. Cambridge Military Histories. Cambridge University Press, 2008.
-Alammar, Jay. The Illustrated Word2vec. March 27, 2019. 
-https://jalammar.github.io/illustrated-word2vec/.
-Anagnostopoulos, Aris. “Delusion Street: Commemoration and Monumentality in Post-Ottoman 
-Iraklio, Crete.” History and Anthropology (Abingdon) 30, no. 3 (2019): 256–75. 
-https://doi.org/10.1080/02757206.2019.1579087.
-Anagnostopoulos, Aris. “From ‘Tourkopolis’ to ‘Metropolis’: Transforming Urban Boundaries in 
-Late Nineteenth-Century Iraklio (Candia), Crete.” Journal of the Economic and Social 
-History of the Orient (The Netherlands) 61, no. 4 (2018): 693–725. https://doi.org/10.1163/15685209-12341461.
-Anderson, Clare. The Indian Uprisings of 1857-8: Prisons, Prisoners, and Rebellion. Anthem 
-Press, 2007.
+Aksakal, Mustafa. *The Ottoman Road to War in 1914 the Ottoman Empire and the First World War.* With ProQuest. Cambridge Military Histories. Cambridge University Press, 2008.
+
+Alammar, Jay. The Illustrated Word2vec. March 27, 2019. https://jalammar.github.io/illustrated-word2vec/.
+
+Anagnostopoulos, Aris. “Delusion Street: Commemoration and Monumentality in Post-Ottoman Iraklio, Crete.” *History and Anthropology* (Abingdon) 30, no. 3 (2019): 256–75. https://doi.org/10.1080/02757206.2019.1579087.
+
+Anagnostopoulos, Aris. “From ‘Tourkopolis’ to ‘Metropolis’: Transforming Urban Boundaries in Late Nineteenth-Century Iraklio (Candia), Crete.” *Journal of the Economic and Social History of the Orient* (The Netherlands) 61, no. 4 (2018): 693–725. https://doi.org/10.1163/15685209-12341461.
+
+Anderson, Clare. *The Indian Uprisings of 1857-8: Prisons, Prisoners, and Rebellion.* Anthem Press, 2007.
+
 Anthony, Lawrence. AntConc. V. 4.3.1. Waseda University, n.d.
+
 Arjana, Sophia Rose. Muslims in the Western Imagination. Oxford University Press, 2015.
 Asad, Talal. “Multiculturalism and British Identity in the Wake of the Rushdie Affair.” Politics & 
 Society 18, no. 4 (1990): 455–80.
