@@ -1,7 +1,7 @@
 ---
 title: "German-Ottoman Jihad"
 layout: single
-permalink: /research/casestudies/jihad
+permalink: /research/casestudies/jihad/
 ---
 
 Following the establishment of a defensive alliance with Germany in August 1914, the leaders of the Ottoman Empire hoped that Germany would win the war before it became necessary to join it.  The belief on both sides at the start of the First World War was that it would be over very quickly—but it was clear after the German defeat on the Marne in early September 1914 that the war, especially on the Western front, would not be won quickly. This led the Germans to put increased pressure on the Ottomans to formally join the war effort. Ottoman leaders acquiesced to these demands in late October and ordered an attack on Russian naval installations in the Black Sea. However, the Ottomans presented a different narrative to the world, which served a purpose for their eventual declaration on November 11. The Ottomans maintained that the Russians had started the attacks, and the Ottomans were simply defending themselves.  Meanwhile, a broad consensus about the meaning of jihad had grown amongst Muslim scholars during this period. They argued that when an Islamic state was under attack, fighting was seen as an individual duty incumbent on every Muslim.  By maintaining that Russia started the attacks, the Ottomans relied on this understanding of jihad as both justification and a call to action. 
