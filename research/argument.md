@@ -3,7 +3,6 @@ title: "Argument"
 layout: single
 permalink: /research/argument/
 ---
-Content about your main argument goes here.
 
 “Muslims, like the former mayor of Bradford…need to remind themselves why they have made England their home. We need to remind them why they should respect and obey the rules of our generously tolerant Christian democracy and why we cannot allow them to impose their religious diktats in such a way."
 
