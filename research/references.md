@@ -3,280 +3,294 @@ title: "References"
 layout: single
 permalink: /research/references/
 ---
+<input type="text" id="ref-search" placeholder="Search by author or title..." style="width:100%; padding:0.6em; margin-bottom:1em; font-size:1em; border:1px solid #ccc; border-radius:4px;">
 
 ## Primary
-Ahmad, Rafiuddin. “The Battle of Omdurman and the Mussulman World.” *Nineteenth Century* 44, nos. 688–696 (1898).
+<details open>
+<summary><strong>Primary Sources</strong> (click to collapse)</summary>
+<ul id="primary-list">
+<li>Ahmad, Rafiuddin. “The Battle of Omdurman and the Mussulman World.” *Nineteenth Century* 44, nos. 688–696 (1898).</li>
 
-Akhbar. “The Indian Mutiny.” *The Times*, July 2, 1857.
+<li>Akhbar. “The Indian Mutiny.” *The Times*, July 2, 1857.</li>
 
-*BBC*. “Ayatollah Sentences Author to Death.” February 14, 1989.
+<li>*BBC*. “Ayatollah Sentences Author to Death.” February 14, 1989.</li>
 
-Buchan, John. *Greenmantle*. Hodder & Stoughton, 1916.
+<li>Buchan, John. *Greenmantle*. Hodder & Stoughton, 1916.</li>
 
-Burleigh, Bennet. *Khartoum Campaign, 1898: Or the Re-Conquest of the Soudan.* Chapman & Hall, 1899.
+<li>Burleigh, Bennet. *Khartoum Campaign, 1898: Or the Re-Conquest of the Soudan.* Chapman & Hall, 1899.</li>
 
-Calcutta Correspondent. “The Bengal Mutinies.” *The Times*, June 15, 1857.
+<li>Calcutta Correspondent. “The Bengal Mutinies.” *The Times*, June 15, 1857.</li>
 
-Churchill, Winston. *The River War*. Longmans, Green and Co., 1899.
+<li>Churchill, Winston. *The River War*. Longmans, Green and Co., 1899.</li>
 
-Correspondent in Syria. “The Omen. Calling the Faithful to a Holy War.” *The Times*, March 20, 1915.
+<li>Correspondent in Syria. “The Omen. Calling the Faithful to a Holy War.” *The Times*, March 20, 1915.</li>
 
-Davenport, Peter. “Bradford Churchmen Try to Ease Tension.” *The Times*, February 16, 1989.
+<li>Davenport, Peter. “Bradford Churchmen Try to Ease Tension.” *The Times*, February 16, 1989.</li>
 
-Hancock, A. G. *The Siege of Delhi in 1857. A Short Account.* Pioneer Press, 1899.
+<li>Hancock, A. G. *The Siege of Delhi in 1857. A Short Account.* Pioneer Press, 1899.</li>
 
-Hurgronje, Christian Snouck. *Heilige Oorlog Made in Germany.* London, 1915.
+<li>Hurgronje, Christian Snouck. *Heilige Oorlog Made in Germany.* London, 1915.</li>
 
-Kilroy-Silk, Robert. “Meeting the mob halfway,” *The Times*, January 27, 1989.
+<li>Kilroy-Silk, Robert. “Meeting the mob halfway,” *The Times*, January 27, 1989.</li>
 
-Longley, Clifford. “Making Peace with Muslims,” *The Times*, February 25, 1989.
+<li>Longley, Clifford. “Making Peace with Muslims,” *The Times*, February 25, 1989.</li>
 
-MacDonald, J. H. “The Mahommedans in India.” *The Times*, September 11, 1857.
+<li>MacDonald, J. H. “The Mahommedans in India.” *The Times*, September 11, 1857.</li>
 
-Marriott, J. W. "India and Its Mutiny: A Lecture. Delivered Before the Halifax Young Men’s Christian Association, on Tuesday Evening, March 16, 1858". *The Wesleyan Conference Steam Press*, 1858.
+<li>Marriott, J. W. "India and Its Mutiny: A Lecture. Delivered Before the Halifax Young Men’s Christian Association, on Tuesday Evening, March 16, 1858". *The Wesleyan Conference Steam Press*, 1858.</li>
 
-Nichols, Aidan. “Lessons of the Lefebvre Affair.” *The Times*, December 19, 1988.
+<li>Nichols, Aidan. “Lessons of the Lefebvre Affair.” *The Times*, December 19, 1988.</li>
 
-Nicholson, Michael. “The Satanic Verses.” *The Times*, January 20, 1989.
+<li>Nicholson, Michael. “The Satanic Verses.” *The Times*, January 20, 1989.</li>
 
-Ohrwalder, Joseph, and Reginald Wingate. *Ten Years’ Capitivity in the Mahdi’s Camp 1882-1892.* Heinemann and Balestier, 1893.
+<li>Ohrwalder, Joseph, and Reginald Wingate. *Ten Years’ Capitivity in the Mahdi’s Camp 1882-1892.* Heinemann and Balestier, 1893.</li>
 
-Our Correspondent in Rome. “Serious Rioting in Rome.” *The Times*, March 11, 1914.
+<li>Our Correspondent in Rome. “Serious Rioting in Rome.” *The Times*, March 11, 1914.</li>
 
-Our Own Correspondent. “Turkey.” *The Times*, March 27, 1858.
+<li>Our Own Correspondent. “Turkey.” *The Times*, March 27, 1858.</li>
 
-“Occasional News.” *Pall Mall Gazette*, September 8, 1898.
+<li>“Occasional News.” *Pall Mall Gazette*, September 8, 1898.</li>
 
-“Occasional News.” *Pall Mall Gazette*, September 12, 1898.
+<li>“Occasional News.” *Pall Mall Gazette*, September 12, 1898.</li>
 
-Rhodes, Colonel F. “The Battle of Omdurman.” *The Times*, September 16, 1898.
+<li>Rhodes, Colonel F. “The Battle of Omdurman.” *The Times*, September 16, 1898.</li>
 
-Sedgwick, F. R. *The Indian Mutiny of 1857. A Sketch of the Principal Military Events.* Foster Groom & Co, 1919.
+<li>Sedgwick, F. R. *The Indian Mutiny of 1857. A Sketch of the Principal Military Events.* Foster Groom & Co, 1919.</li>
 
-Slatin, Rudolf C. *Fire and Sword in the Sudan: A Personal Narrative of Fighting and Serving the Dervishes.* Edward Arnold, 1896.
+<li>Slatin, Rudolf C. *Fire and Sword in the Sudan: A Personal Narrative of Fighting and Serving the Dervishes.* Edward Arnold, 1896.</li>
 
-Tendler, Stewart, Andrew McEwen, and Nicholas Beeston. “Bodyguard for Rushdie after Death Threat.” *The Times*, February 15, 1989.
+<li>Tendler, Stewart, Andrew McEwen, and Nicholas Beeston. “Bodyguard for Rushdie after Death Threat.” *The Times*, February 15, 1989.</li>
 
-*The Indian Mutiny. Thoughts and Facts.* London, 1857.
+<li>*The Indian Mutiny. Thoughts and Facts.* London, 1857.</li>
 
-*The Times Digital Archive*: January 1 1856–December 31 1859; January 1 1897–December 31 1899; January 1 1913–December 31 1915; December 1 1988–March 31, 1989.
+<li>*The Times Digital Archive*: January 1 1856–December 31 1859; January 1 1897–December 31 1899; January 1 1913–December 31 1915; December 1 1988–March 31, 1989.</li>
 
-*The Times*. “American View of Turkey’s Actions.” November 2, 1914.
+<li>*The Times*. “American View of Turkey’s Actions.” November 2, 1914.</li>
 
-*The Times*. “Arts Diary.” March 4, 1898.
+<li>*The Times*. “Arts Diary.” March 4, 1898.</li>
 
-*The Times*. “Britain’s Rioteous Causes.” September 6, 1914.
+<li>*The Times*. “Britain’s Rioteous Causes.” September 6, 1914.</li>
 
-*The Times*. “Day of Humiliation.” September 28, 1857.
+<li>*The Times*. “Day of Humiliation.” September 28, 1857.</li>
 
-*The Times*. “Fantastic German News in Turkey. Appeals to Pan-Islamic Feeling.” September 5, 1914.
+<li>*The Times*. “Fantastic German News in Turkey. Appeals to Pan-Islamic Feeling.” September 5, 1914.</li>
 
-*The Times*. “Four-Ball Match and Foursome.” April 22, 1914.
+<li>*The Times*. “Four-Ball Match and Foursome.” April 22, 1914.</li>
 
-*The Times*. “Friday Page.” February 17, 1989.
+<li>*The Times*. “Friday Page.” February 17, 1989.</li>
 
-*The Times*. “German Methods in the East.” December 15, 1914.
+<li>*The Times*. “German Methods in the East.” December 15, 1914.</li>
 
-*The Times*. “In the Midst of Our Rejoicings over the Victory.” September 7, 1898.
+<li>*The Times*. “In the Midst of Our Rejoicings over the Victory.” September 7, 1898.</li>
 
-*The Times*. “Index: Crete.” September 7, 1898.
+<li>*The Times*. “Index: Crete.” September 7, 1898.</li>
 
-*The Times*. “India.” November 30, 1857.
+<li>*The Times*. “India.” November 30, 1857.</li>
 
-*The Times*. “Islamic Intolerance.” January 17, 1989.
+<li>*The Times*. “Islamic Intolerance.” January 17, 1989.</li>
 
-*The Times*. “London, Friday, January 1, 1858.” January 1, 1858.
+<li>*The Times*. “London, Friday, January 1, 1858.” January 1, 1858.</li>
 
-*The Times*. “Outbreak at Candia.” September 7, 1898.
+<li>*The Times*. “Outbreak at Candia.” September 7, 1898.</li>
 
-*The Times*. “The Church and Imperial Policy.” September 29, 1898.
+<li>*The Times*. “The Church and Imperial Policy.” September 29, 1898.</li>
 
-*The Times*. “The Indian Mutiny.” January 29, 1858.
+<li>*The Times*. “The Indian Mutiny.” January 29, 1858.</li>
 
-*The Times*. “The Kaiser on the ‘Holy War.’” November 19, 1914.
+<li>*The Times*. “The Kaiser on the ‘Holy War.’” November 19, 1914.</li>
 
-*The Times*. “The Later Account of the Riot at Candia.” September 8, 1898.
+<li>*The Times*. “The Later Account of the Riot at Candia.” September 8, 1898.</li>
 
-*The Times*. “The Massacre at Jeddah.” July 17, 1858.
+<li>*The Times*. “The Massacre at Jeddah.” July 17, 1858.</li>
 
-*The Times*. “The Religious Aspect of the Indian Crisis.” October 9, 1857.
+<li>*The Times*. “The Religious Aspect of the Indian Crisis.” October 9, 1857.</li>
 
-*The Times*. “The Situation in Crete.” February 1, 1897.
+<li>*The Times*. “The Situation in Crete.” February 1, 1897.</li>
 
-*The Times*. “The State of Crete.” February 8, 1898.
+<li>*The Times*. “The State of Crete.” February 8, 1898.</li>
 
-*The Times*. “The Sudan.” April 9, 1898.
+<li>*The Times*. “The Sudan.” April 9, 1898.</li>
 
-Wilson, John. *The Indian Mutiny Revolt Viewed in Its Religious Aspects: A Lecture Delivered in Bombay on the 14th and 16th August, 1857.* Smith, Taylor and Co., 1857.
+<li>Wilson, John. *The Indian Mutiny Revolt Viewed in Its Religious Aspects: A Lecture Delivered in Bombay on the 14th and 16th August, 1857.* Smith, Taylor and Co., 1857.</li>
+</ul>
+</details>
 
 ## Secondary
+<details>
+<summary><strong>Secondary Sources</strong> (click to expand)</summary>
 
-Abbas, Sadia. *At Freedom’s Limit: Islam and the Postcolonial Predicament*. Fordham University Press, 2014.
+<ul id="secondary-list">
+<li>Abbas, Sadia. *At Freedom’s Limit: Islam and the Postcolonial Predicament*. Fordham University Press, 2014.</li>
 
-Abdelhalim, Julten. *Indian Muslims and Citizenship: Spaces for Jihad in Everyday*. Routledge, 2016.
+<li>Abdelhalim, Julten. *Indian Muslims and Citizenship: Spaces for Jihad in Everyday*. Routledge, 2016.</li>
 
-Ahmad, Syed Nesar. *Origins of Muslim Consciousness in India*. Greenwood Press, 2004.
+<li>Ahmad, Syed Nesar. *Origins of Muslim Consciousness in India*. Greenwood Press, 2004.</li>
 
-Aksakal, Mustafa. “Holy War Made in Germany? Ottoman Origins of the 1914 Jihad.” *War in History* 18, no. 2 (2011): 184–99.
+<li>Aksakal, Mustafa. “Holy War Made in Germany? Ottoman Origins of the 1914 Jihad.” *War in History* 18, no. 2 (2011): 184–99.</li>
 
-Aksakal, Mustafa. *The Ottoman Road to War in 1914 the Ottoman Empire and the First World War.* With ProQuest. Cambridge Military Histories. Cambridge University Press, 2008.
+<li>Aksakal, Mustafa. *The Ottoman Road to War in 1914 the Ottoman Empire and the First World War.* With ProQuest. Cambridge Military Histories. Cambridge University Press, 2008.</li>
 
-Alammar, Jay. The Illustrated Word2vec. March 27, 2019. https://jalammar.github.io/illustrated-word2vec/.
+<li>Alammar, Jay. The Illustrated Word2vec. March 27, 2019. https://jalammar.github.io/illustrated-word2vec/.</li>
 
-Anagnostopoulos, Aris. “Delusion Street: Commemoration and Monumentality in Post-Ottoman Iraklio, Crete.” *History and Anthropology* (Abingdon) 30, no. 3 (2019): 256–75. https://doi.org/10.1080/02757206.2019.1579087.
+<li>Anagnostopoulos, Aris. “Delusion Street: Commemoration and Monumentality in Post-Ottoman Iraklio, Crete.” *History and Anthropology* (Abingdon) 30, no. 3 (2019): 256–75. https://doi.org/10.1080/02757206.2019.1579087.</li>
 
-Anagnostopoulos, Aris. “From ‘Tourkopolis’ to ‘Metropolis’: Transforming Urban Boundaries in Late Nineteenth-Century Iraklio (Candia), Crete.” *Journal of the Economic and Social History of the Orient* (The Netherlands) 61, no. 4 (2018): 693–725. https://doi.org/10.1163/15685209-12341461.
+<li>Anagnostopoulos, Aris. “From ‘Tourkopolis’ to ‘Metropolis’: Transforming Urban Boundaries in Late Nineteenth-Century Iraklio (Candia), Crete.” *Journal of the Economic and Social History of the Orient* (The Netherlands) 61, no. 4 (2018): 693–725. https://doi.org/10.1163/15685209-12341461.</li>
 
-Anderson, Clare. *The Indian Uprisings of 1857-8: Prisons, Prisoners, and Rebellion.* Anthem Press, 2007.
+<li>Anderson, Clare. *The Indian Uprisings of 1857-8: Prisons, Prisoners, and Rebellion.* Anthem Press, 2007.</li>
 
-Anthony, Lawrence. AntConc. V. 4.3.1. Waseda University, n.d.
+<li>Anthony, Lawrence. AntConc. V. 4.3.1. Waseda University, n.d.</li>
 
-Arjana, Sophia Rose. *Muslims in the Western Imagination*.* Oxford University Press, 2015.
+<li>Arjana, Sophia Rose. *Muslims in the Western Imagination*.* Oxford University Press, 2015.</li>
 
-Asad, Talal. “Multiculturalism and British Identity in the Wake of the Rushdie Affair.” *Politics & Society* 18, no. 4 (1990): 455–80.
+<li>Asad, Talal. “Multiculturalism and British Identity in the Wake of the Rushdie Affair.” *Politics & Society* 18, no. 4 (1990): 455–80.</li>
 
-Avci, Remi. “Pan-Islamism and the Jihad Discourse of the German Orientalists in the First World War.” *Jurnal Al-Tamaddun* 14, no. 2 (2019).
+<li>Avci, Remi. “Pan-Islamism and the Jihad Discourse of the German Orientalists in the First World War.” *Jurnal Al-Tamaddun* 14, no. 2 (2019).</li>
 
-Aydin, Cemil. *The Idea of the Muslim World: A Global Intellectual History.* Harvard University Press, 2017.
+<li>Aydin, Cemil. *The Idea of the Muslim World: A Global Intellectual History.* Harvard University Press, 2017.</li>
 
-Ballantyne, Tony, and Antoinette Burton. *Bodies in Contact: Rethinking Colonial Encounters in World History.* University of Illinois Press, 2005.
+<li>Ballantyne, Tony, and Antoinette Burton. *Bodies in Contact: Rethinking Colonial Encounters in World History.* University of Illinois Press, 2005.</li>
 
-Blankenship, Avery. “Word Vector Model Evaluation.” Women Writers Project, n.d. https://wwp.northeastern.edu/outreach/seminars/_current/handouts/word_vectors/evaluation.html.
+<li>Blankenship, Avery. “Word Vector Model Evaluation.” Women Writers Project, n.d. https://wwp.northeastern.edu/outreach/seminars/_current/handouts/word_vectors/evaluation.html.</li>
 
-Blankenship, Avery, Sarah Connell, and Quinn Dombrowski. “Understanding and Creating Word 	Embeddings.” Programming Historian, 2020. 
-https://programminghistorian.org/en/lessons/understanding-creating-word-embeddings.
+<li>Blankenship, Avery, Sarah Connell, and Quinn Dombrowski. “Understanding and Creating Word 	Embeddings.” Programming Historian, 2020. 
+https://programminghistorian.org/en/lessons/understanding-creating-word-embeddings.</li>
 
-Bose, Sugata, and Ayesha Jalal. *Modern South Asia: History, Culture, Political Economy.* Routledge, 1998.
+<li>Bose, Sugata, and Ayesha Jalal. *Modern South Asia: History, Culture, Political Economy.* Routledge, 1998.</li>
 
-Bowen, John R. *On British Islam: Religion, Law, and Everyday Practices in Sharia Councils.* Princeton University Press, 2016.
+<li>Bowen, John R. *On British Islam: Religion, Law, and Everyday Practices in Sharia Councils.* Princeton University Press, 2016.</li>
 
-Bracke, Sarah, and Luis Aguilar. “‘They Love Death as We Love Life’: The Muslim Question and the Biopolitics of Replacement.” *BJS: The British Journal of Sociology* 71, no. 4 (2020).
+<li>Bracke, Sarah, and Luis Aguilar. “‘They Love Death as We Love Life’: The Muslim Question and the Biopolitics of Replacement.” *BJS: The British Journal of Sociology* 71, no. 4 (2020).</li>
 
-Brown, Lucy. “The Growth of a National Press.” In *Investigating Victorian Journalism*, edited by Laurel Brake, Aled Jones, and Lionel Madden. St Martin’s Press, 1990.
+<li>Brown, Lucy. “The Growth of a National Press.” In *Investigating Victorian Journalism*, edited by Laurel Brake, Aled Jones, and Lionel Madden. St Martin’s Press, 1990.</li>
 
-Brown, Lucy. *Victorian News and Newspapers*. Claredon Press, 1985.
+<li>Brown, Lucy. *Victorian News and Newspapers*. Claredon Press, 1985.</li>
 
-Burbank, Jane, and Frederick Cooper. *Empires in World History: Power and the Politics of Difference.* Princeton University Press, 2011.
+<li>Burbank, Jane, and Frederick Cooper. *Empires in World History: Power and the Politics of Difference.* Princeton University Press, 2011.</li>
 
-Burton, Antoinette. *At the Heart of the Empire: Indians and the Colonial Encounter in Late-Victorian Britain.* University of California Press, 1998.
+<li>Burton, Antoinette. *At the Heart of the Empire: Indians and the Colonial Encounter in Late-Victorian Britain.* University of California Press, 1998.</li>
 
-Burton, Antoinette. *The Trouble with Empire: Challenges to Modern British Imperialism.* Oxford University Press, 2015.
+<li>Burton, Antoinette. *The Trouble with Empire: Challenges to Modern British Imperialism.* Oxford University Press, 2015.</li>
 
-Blevins, Cameron. “Digital History’s Perpetual Future Tense.” In *Debates in the Digital Humanities* 2016, with Lauren F Klein and Matthew K Gold. University of Minnesota Press, 2016.
+<li>Blevins, Cameron. “Digital History’s Perpetual Future Tense.” In *Debates in the Digital Humanities* 2016, with Lauren F Klein and Matthew K Gold. University of Minnesota Press, 2016.</li>
 
-Carey, John, William V. Dunlap, and R. John Pritchard. *International Humanitarian Law: Origins, Challenges, Prospects.* Transnational Publishers, 2003.
+<li>Carey, John, William V. Dunlap, and R. John Pritchard. *International Humanitarian Law: Origins, Challenges, Prospects.* Transnational Publishers, 2003.</li>
 
-Chaudhuri, S. B. *Civil Rebellion in the Indian Mutinies*, 1857-59. World Press, 1957.
+<li>Chaudhuri, S. B. *Civil Rebellion in the Indian Mutinies*, 1857-59. World Press, 1957.</li>
 
-Chin, Rita. *The Crisis of Multiculturalism in Europe: A History.* Princeton University Press, 2017.
+<li>Chin, Rita. *The Crisis of Multiculturalism in Europe: A History.* Princeton University Press, 2017.</li>
 
-Connell, Kieran. “The Rushdie Affair and the Politics of Multicultural Britain.” *The Historical Journal* 67, no. 5 (2024): 1066–88.
+<li>Connell, Kieran. “The Rushdie Affair and the Politics of Multicultural Britain.” *The Historical Journal* 67, no. 5 (2024): 1066–88.</li>
 
-Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* University of California Press, 2005.
+<li>Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* University of California Press, 2005.</li>
 
-Detorakēs, Theocharēs Eustratiou. *History of Crete.* Iraklion, 1994.
+<li>Detorakēs, Theocharēs Eustratiou. *History of Crete.* Iraklion, 1994.</li>
 
-Ellingson, Ter. *The Myth of the Noble Savage.* University of California Press, 2001.
+<li>Ellingson, Ter. *The Myth of the Noble Savage.* University of California Press, 2001.</li>
 
-Esposito, John L., and Ibrahim Kalin. *Islamophobia: The Challenge of Pluralism in the 21st Century.* Cambridge University Press, 2011.
+<li>Esposito, John L., and Ibrahim Kalin. *Islamophobia: The Challenge of Pluralism in the 21st Century.* Cambridge University Press, 2011.</li>
 
-Falkenhayner, N. *Making the British Muslim: Representations of the Rushdie Affair and Figures of the War-On-Terror Decade.* Springer, 2014.
+<li>Falkenhayner, N. *Making the British Muslim: Representations of the Rushdie Affair and Figures of the War-On-Terror Decade.* Springer, 2014.</li>
 
-Falkenhayner, Nicole. “The Other Rupture of 1989: The Rushdie Affair as the Inaugural Event of Representations of Post-Secular Conflict.” *Global Society : Journal of Interdisciplinary International Relations* 24, no. 1 (2010): 111–32.
+<li>Falkenhayner, Nicole. “The Other Rupture of 1989: The Rushdie Affair as the Inaugural Event of Representations of Post-Secular Conflict.” *Global Society : Journal of Interdisciplinary International Relations* 24, no. 1 (2010): 111–32.</li>
 
-Faulkner, Neil. *Empire and Jihad: The Anglo-Arab Wars of 1870-1920.* Yale University Press, 2021.
+<li>Faulkner, Neil. *Empire and Jihad: The Anglo-Arab Wars of 1870-1920.* Yale University Press, 2021.</li>
 
-Ferguson, Niall. *Empire: The Rise and Demise of the British World Order and the Lessons for Global Power.* Basic Books, 2008.
+<li>Ferguson, Niall. *Empire: The Rise and Demise of the British World Order and the Lessons for Global Power.* Basic Books, 2008.</li>
 
-Fowler, Bridget. “A Sociological Analysis of the Satanic Verses Affair.” *Theory, Culture, and Society* 17, no. 1 (2000): 39–61.
+<li>Fowler, Bridget. “A Sociological Analysis of the Satanic Verses Affair.” *Theory, Culture, and Society* 17, no. 1 (2000): 39–61.</li>
 
-Geaves, R. A. “India 1857: A Mutiny or a War of Independence? The Muslim Perspective.” 
-*Islamic Studies* 33, no. 1 (1996).
+<li>Geaves, R. A. “India 1857: A Mutiny or a War of Independence? The Muslim Perspective.” 
+*Islamic Studies* 33, no. 1 (1996).</li>
 
-Gopal, Priyamvada. *Insurgent Empire: Anticolonial Resistance and British Dissent.* Verso, 2019.
+<li>Gopal, Priyamvada. *Insurgent Empire: Anticolonial Resistance and British Dissent.* Verso, 2019.</li>
 
-Gordon, Michelle. “Viewing Violence in the British Empire: Images of Atrocity from the Battle of Omdurman, 1898,” *Journal of Perpetrator Research* 2, no. 2 (2019): 65–100.
+<li>Gordon, Michelle. “Viewing Violence in the British Empire: Images of Atrocity from the Battle of Omdurman, 1898,” *Journal of Perpetrator Research* 2, no. 2 (2019): 65–100.</li>
 
-Goswami, Manu. *Producing India: From Colonial Economy to National Space.* Oxford 
-University Press, 2004.
+<li>Goswami, Manu. *Producing India: From Colonial Economy to National Space.* Oxford 
+University Press, 2004.</li>
 
-Gottschalk, Peter. *Religion, Science, and Empire: Classifying Hinduism and Islam in British India.* Oxford University Press, 2013.
+<li>Gottschalk, Peter. *Religion, Science, and Empire: Classifying Hinduism and Islam in British India.* Oxford University Press, 2013.</li>
 
-Guha, Ranajit. *Dominance without Hegemony: History and Power in Colonial India.* Oxford University Press, 1988.
+<li>Guha, Ranajit. *Dominance without Hegemony: History and Power in Colonial India.* Oxford University Press, 1988.</li>
 
-Guldi, Jo. “The Revolution in Text Mining for Historical Analysis Is Here.” *The American Historical Review* (Oxford) 129, no. 2 (2024): 519–43. https://doi.org/10.1093/ahr/rhae163.
+<li>Guldi, Jo. “The Revolution in Text Mining for Historical Analysis Is Here.” *The American Historical Review* (Oxford) 129, no. 2 (2024): 519–43. https://doi.org/10.1093/ahr/rhae163.</li>
 
-Hall, Catherine, and Sonya Rose. *At Home With the Empire: Metropolitan Culture and the Imperial World.* Cambridge University Press, 2006.
+<li>Hall, Catherine, and Sonya Rose. *At Home With the Empire: Metropolitan Culture and the Imperial World.* Cambridge University Press, 2006.</li>
 
-Hamid, Abdul. *Muslim Separation in India: A Brief Survey.* Oxford University Press, 1967.
+<li>Hamid, Abdul. *Muslim Separation in India: A Brief Survey.* Oxford University Press, 1967.</li>
 
-Hamid, Sadek. *Young British Muslims: Between Rhetoric and Reality.* Routledge, 2016.
-
-Harper, Marjory. *Emigrant Homecomings: The Return Movement of Emigrants, 1600-2000.* 
-Manchester University Press, 2005.
-
-Hasan, Tariq. *Colonialism and the Call to Jihad in British India.* SAGE Publications, 2015.
-
-Hashas, Mohammed. *The Idea of European Islam: Religion, Ethics, Politics, and Perpetual Modernity.* Routledge, 2018.
-
-Hibbert, Christopher. *The Great Mutiny: India, 1857.* Viking Press, 1978.
-
-Hobbs, Andrew. “The Deleterious Dominance of *The Times* in Nineteenth-Century Scholarship.” *Journal of Victorian Culture* 18, no. 4 (2013).
-
-Holland, R. F. (Robert F. ). *Blue-Water Empire : The British in the Mediterranean since 1800.* London : Penguin, 2013. 
-
-Huntington, Samuel. *The Clash of Civilizations and the Remaking of the World Order.* Simon & Schuster, 1996.
-
-Jackson, Leonie B. *Islamophobia in Britain: The Making of a Muslim Enemy.* Palgrave 
-Macmillan, 2018.
-
-Jenkins, Phillip. *God’s Continent: Christianity, Islam, and Europe’s Religious Crisis.* 2007.
-
-Jenkins, Phillip. *The Great and Holy War: How World War I Became a Religious Crusade.* Oxford University Press, 2009.
-
-Jennings, Jeremy. *Intellectuals in Politics from the Dreyfus Affair to the Rushdie Affair.* Routledge, 1997.
-
-Jockers, Matthew, and Julia Flanders. “A Matter of Scale.” Department of English: Faculty Publications, March 18, 2013. https://digitalcommons.unl.edu/englishfacpubs/106.
-
-Johnson Juniper, Julia Flanders, and Sarah Connell. “Introduction to Word Embedding Models.” Women Writers Vector Toolkit, 2019. https://wwp.northeastern.edu/lab/wwvt/resources/introduction/index.html.
-
-Jung, Dietrich. “The ‘Ottoman-German Jihad’: Lessons for the Contemporary ‘Area Studies’ Controversy.” *British Journal of Middle Eastern Studies* 41, no. 3 (2014): 247–65.
-
-Kirilloff, Gabi. “Computation as Context: New Approches to the Close/Distant Reading Debate,” *College Literature* 49, no. 1 (2022): 1–25.
-
-Kirmizialtin, Suphan, and David Joseph Wrisley. “Exploring Gulf Manumission with Word 
-Vectors.” Journal of Islamicate Research 2 (2024): 1–29.
-Kitagawa, Risa, and Fiona Shen-Bayn. “Measuring Political Narratives in African News Media: 
-A Word Embeddings Approach.” The Journal of Politics 86, no. 3 (2024): 1087–92.
-Koselleck, Reinhart. “Linguistic Change and the History of Events.” The Journal of Modern 
-History 61, no. 4 (1989): 649–66.
-Kramer, Robert S. Holy City on the Nile: Omdurman during the Mahdiyya, 1885-1898. Markus 
-Weiner Publishers, 2010.
-Ladd, John R. “Understanding and Using Common Similarity Measures for Text Analysis.” 
-Programming Historian, 2020.
- https://programminghistorian.org/en/lessons/common-similarity-measures.
-Lee, Alan. The Origins of the Popular Press in England, 1855-1914. Croom Helm, 1976.
-Levine, Philippa. Gender and Empire. Oxford University Press, 2004.
-Majumdar, R. C. The Sepoy Mutiny and the Revolt of 1857. Srimati, 1957.
-Malik, Kenan. From Fatwa to Jihad: The Rushdie Affair and Its Aftermath. Melville House 
-Publishing, 2010.
-Manjapra, Kris. “The Illusions of Encounter: Muslim ‘minds’ and Hindu Revolutionaries in First 
-World War Germany and After.” Journal of Global History 1 (2006): 363–82.
-Marjanen, Jani, Lidia Pivovarova, Elaine Zosa, and Jussi Kurunmäki. “Clustering Ideological 
-Terms in Historical Newspaper Data with Diachronic Word Embeddings.” In 
-HistoInformatics 2019: International Workshop on Computational History: Co-Located with the 23rd International Conference on Theory and Practice of Digital Libraries, edited by M. Wevers, M. Hasanuzzaman, G. Dias, M. Düring, and A. Jatowt. CEUR Workshop Proceedings, 2019.
-Mazumdar, Shaswati. Insurgent Sepoys: Europe Views the Revolt of 1857. Routledge, 2011.
-McLean, Robert R. “The Kaiser’s Diplomacy and the Reconquest of the Sudan.” In Sudan: The 
-Reconquest Reappraised, by Edward M. Spiers. Frank Cass, 1998.
-Merritt, Rebecca. “Public Perceptions of 1857: An Overview of British Press Responses to the 
-Indian Uprising.” In Mutiny at the Margins: New Perspectives on the Indian Uprising of 
-1857, by Crispin Bates. SAGE Publications, 2013.
-Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. “Distributed 
-Representations of Words and Phrases and Their Compositionality.” In Advances in Neural Information Processing Systems, vol. 26, edited by C. J. Burges, L. Bottou, M. Welling, Z. Ghahramani, and K. Q. Weinberger. Curran Associates, Inc., 2013. https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf.
-Moddod, Tariq. “British Asian Muslims and the Rushdie Affair.” Political Quarterly 61, no. 2 
-(1990): 143–60.
-Mondal, Anshuman. Islam and Controversy: The Politics of Free Speech After Rushdie. Palgrave 
-Macmillan, 2014.
+<li>Hamid, Sadek. *Young British Muslims: Between Rhetoric and Reality.* Routledge, 2016.</li>
+
+<li>Harper, Marjory. *Emigrant Homecomings: The Return Movement of Emigrants, 1600-2000.* 
+Manchester University Press, 2005.</li>
+
+<li>Hasan, Tariq. *Colonialism and the Call to Jihad in British India.* SAGE Publications, 2015.</li>
+
+<li>Hashas, Mohammed. *The Idea of European Islam: Religion, Ethics, Politics, and Perpetual Modernity.* Routledge, 2018.</li>
+
+<li>Hibbert, Christopher. *The Great Mutiny: India, 1857.* Viking Press, 1978.</li>
+
+<li>Hobbs, Andrew. “The Deleterious Dominance of *The Times* in Nineteenth-Century Scholarship.” *Journal of Victorian Culture* 18, no. 4 (2013).</li>
+
+<li>Holland, R. F. (Robert F. ). *Blue-Water Empire : The British in the Mediterranean since 1800.* London : Penguin, 2013.</li>
+
+<li>Huntington, Samuel. *The Clash of Civilizations and the Remaking of the World Order.* Simon & Schuster, 1996.</li>
+
+<li>Jackson, Leonie B. *Islamophobia in Britain: The Making of a Muslim Enemy.* Palgrave 
+Macmillan, 2018.</li>
+
+<li>Jenkins, Phillip. *God’s Continent: Christianity, Islam, and Europe’s Religious Crisis.* 2007.</li>
+
+<li>Jenkins, Phillip. *The Great and Holy War: How World War I Became a Religious Crusade.* Oxford University Press, 2009.</li>
+
+<li>Jennings, Jeremy. *Intellectuals in Politics from the Dreyfus Affair to the Rushdie Affair.* Routledge, 1997.</li>
+
+<li>Jockers, Matthew, and Julia Flanders. “A Matter of Scale.” Department of English: Faculty Publications, March 18, 2013. https://digitalcommons.unl.edu/englishfacpubs/106.</li>
+
+<li>Johnson Juniper, Julia Flanders, and Sarah Connell. “Introduction to Word Embedding Models.” Women Writers Vector Toolkit, 2019. https://wwp.northeastern.edu/lab/wwvt/resources/introduction/index.html.</li>
+
+<li>Jung, Dietrich. “The ‘Ottoman-German Jihad’: Lessons for the Contemporary ‘Area Studies’ Controversy.” *British Journal of Middle Eastern Studies* 41, no. 3 (2014): 247–65.</li>
+
+<li>Kirilloff, Gabi. “Computation as Context: New Approches to the Close/Distant Reading Debate,” *College Literature* 49, no. 1 (2022): 1–25.</li>
+
+<li>Kirmizialtin, Suphan, and David Joseph Wrisley. “Exploring Gulf Manumission with Word 
+Vectors.” *Journal of Islamicate Research* 2 (2024): 1–29.</li>
+
+<li>Kitagawa, Risa, and Fiona Shen-Bayn. “Measuring Political Narratives in African News Media: A Word Embeddings Approach.” *The Journal of Politics* 86, no. 3 (2024): 1087–92.</li>
+
+<li>Koselleck, Reinhart. “Linguistic Change and the History of Events.” *The Journal of Modern History* 61, no. 4 (1989): 649–66.</li>
+
+<li>Kramer, Robert S. *Holy City on the Nile: Omdurman during the Mahdiyya, 1885-1898.* Markus Weiner Publishers, 2010.</li>
+
+<li>Ladd, John R. “Understanding and Using Common Similarity Measures for Text Analysis.” 
+Programming Historian, 2020. https://programminghistorian.org/en/lessons/common-similarity-measures.</li>
+
+<li>Lee, Alan. *The Origins of the Popular Press in England, 1855-1914.* Croom Helm, 1976.</li>
+
+<li>Levine, Philippa. *Gender and Empire*.* Oxford University Press, 2004.</li>
+
+<li>Majumdar, R. C. *The Sepoy Mutiny and the Revolt of 1857.* Srimati, 1957.</li>
+
+<li>Malik, Kenan. *From Fatwa to Jihad: The Rushdie Affair and Its Aftermath.* Melville House Publishing, 2010.</li>
+
+<li>Manjapra, Kris. “The Illusions of Encounter: Muslim ‘minds’ and Hindu Revolutionaries in First World War Germany and After.” *Journal of Global History* 1 (2006): 363–82.</li>
+
+<li>Marjanen, Jani, Lidia Pivovarova, Elaine Zosa, and Jussi Kurunmäki. “Clustering Ideological Terms in Historical Newspaper Data with Diachronic Word Embeddings.” In 
+*HistoInformatics 2019: International Workshop on Computational History: Co-Located with the 23rd International Conference on Theory and Practice of Digital Libraries*, edited by M. Wevers, M. Hasanuzzaman, G. Dias, M. Düring, and A. Jatowt. CEUR Workshop Proceedings, 2019.</li>
+
+<li>Mazumdar, Shaswati. *Insurgent Sepoys: Europe Views the Revolt of 1857.* Routledge, 2011.</li>
+
+<li>McLean, Robert R. “The Kaiser’s Diplomacy and the Reconquest of the Sudan.” In *Sudan: The Reconquest Reappraised*, by Edward M. Spiers. Frank Cass, 1998.</li>
+
+<li>Merritt, Rebecca. “Public Perceptions of 1857: An Overview of British Press Responses to the Indian Uprising.” In *Mutiny at the Margins: New Perspectives on the Indian Uprising of 1857*, by Crispin Bates. SAGE Publications, 2013.</li>
+
+<li>Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. “Distributed 
+Representations of Words and Phrases and Their Compositionality.” In *Advances in Neural Information Processing Systems*, vol. 26, edited by C. J. Burges, L. Bottou, M. Welling, Z. Ghahramani, and K. Q. Weinberger. Curran Associates, Inc., 2013. https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf.</li>
+
+<li>Moddod, Tariq. “British Asian Muslims and the Rushdie Affair.” *Political Quarterly* 61, no. 2 (1990): 143–60.</li>
+
+<li>Mondal, Anshuman. *Islam and Controversy: The Politics of Free Speech After Rushdie.* Palgrave Macmillan, 2014.</li>
+
 Moore, Matthew. “The Times Is the Most Trusted National Newspapers.” The Times, June 14, 
 2018.
 Morgenstein Fuerst, Ilyse R. Indian Muslim Minorities and the 1857 Rebellion: Religion, Rebels, 
@@ -385,3 +399,15 @@ Zulfo, Ismat Hasan. Karai: The Sudanese Account of the Battle of Omdurman. Frede
 1980.
 Zürcher, Erik-Jan. Jihad and Islam in World War I: Studies on the Ottoman Jihad at the 
 Centenary of Snouck Hurgronje’s “Holy War Made in Germany. Leiden University Press, 2016.
+</ul>
+
+</details>
+
+<script>
+document.getElementById('ref-search').addEventListener('input', function() {
+  var query = this.value.toLowerCase();
+  document.querySelectorAll('#primary-list li, #secondary-list li').forEach(function(item) {
+    item.style.display = item.textContent.toLowerCase().includes(query) ? '' : 'none';
+  });
+});
+</script>
