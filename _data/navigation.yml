@@ -22,9 +22,10 @@ main:
 
   - title: "Methodology"
     children:
+      - title: Methods
+        url: /methodology/methods/
       - title: "Word Embedding Models"
         url: /methodology/wems/
       - title: "Corpus"
         url: /methodology/corpus/
-      - title: Methods
-        url: /methodology/methods/  
+        
