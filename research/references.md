@@ -229,7 +229,7 @@ https://programminghistorian.org/en/lessons/understanding-creating-word-embeddin
 
 <li>Hibbert, Christopher. <em>The Great Mutiny: India, 1857.</em> Viking Press, 1978.</li>
 
-<li>Hobbs, Andrew. “The Deleterious Dominance of <em>The Times</em> in Nineteenth-Century Scholarship.” *Journal of Victorian Culture* 18, no. 4 (2013).</li>
+<li>Hobbs, Andrew. “The Deleterious Dominance of <em>The Times</em> in Nineteenth-Century Scholarship.” <em>Journal of Victorian Culture</em> 18, no. 4 (2013).</li>
 
 <li>Holland, R. F. (Robert F. ). <em>Blue-Water Empire : The British in the Mediterranean since 1800.</em> London : Penguin, 2013.</li>
 
