@@ -5,7 +5,8 @@ permalink: /research/references/
 ---
 <input type="text" id="ref-search" placeholder="Search by author or title..." style="width:100%; padding:0.6em; margin-bottom:1em; font-size:1em; border:1px solid #ccc; border-radius:4px;">
 
-## Primary
+To search through the citations for *"Mussulman Fanatics": A Computational Analysis of Anti-Muslim Racism in The Times from the 1857 Sepoy Rebellion to the Rushdie Affair*, use the text box above to search the primary and secondary sources. Use the drop down arrows to expand and collaspe the list of primary and secondary sources. The search box will display sources that match the search in the expanded drop down menus.
+
 <details open>
 <summary><strong>Primary Sources</strong> (click to collapse)</summary>
 <ul id="primary-list">
