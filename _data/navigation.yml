@@ -15,8 +15,8 @@ main:
         url: /research/argument/
       - title: "Case Studies"
         url: /research/casestudies/
-      - title: "Corpus"
-        url: /research/corpus/
+      - title: "Analysis"
+        url: /research/analysis/
       - title: "References"
         url: /research/references/
 
