@@ -5,7 +5,7 @@ permalink: /research/argument/
 ---
 <html>
 <style>
-    blockquote {font-size:16px}
+    blockquote {font-size:8px}
 </style>
 
 <blockquote>“Muslims, like the former mayor of Bradford…need to remind themselves why they have made England their home. We need to remind them why they should respect and obey the rules of our generously tolerant Christian democracy and why we cannot allow them to impose their religious diktats in such a way." ―“The Satanic Verses” Michael Nicholson, *The Times*, January 20, 1989.</blockquote>
