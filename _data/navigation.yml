@@ -25,4 +25,6 @@ main:
       - title: "Word Embedding Models"
         url: /methodology/wems/
       - title: "Corpus"
-        url: /methodology/corpus/  
+        url: /methodology/corpus/
+      - title: Methods
+        url: /methodology/methods/  
