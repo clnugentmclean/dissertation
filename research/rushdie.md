@@ -3,6 +3,7 @@ title: "Rushdie Affair"
 layout: single
 permalink: /research/casestudies/rushdie/
 ---
+> “In the eyes of fellow Muslims, apostasy from his faith is the most serious crime a Muslim can commit. The second most serious crime is to insult the prophet Muhammad. Put them together and they constitute the sort of challenge which will drive fanatical Muslims to extremes.” 
 
 ## Background
 The ‘Rushdie Affair’ (or ‘*The Satanic Verses* affair’) refers to the international controversy in 1989 surrounding the writer Salman Rushdie. Rushdie was a successful essayist and novelist, born in colonial Bombay in 1947 before migrating to Britain. On September 26 1988, he published his fourth novel *The Satanic Verses*, which explored the experience of British immigrants from former colonies, in this case from colonial India. Rushdie painted a portrait of Islam (and the Prophet Muhammad) in a postmodern satirical style, including a visit to a brothel named Hijab in which the twelve sex workers use the names of the twelve wives of the Prophet Muhammad as a business tactic.  The book was seen by many Muslims around the world as scandalous, blasphemous, and deeply insulting. India became the first country to formally ban *The Satanic Verses* on October 5, 1988, and by the end of November it had also been banned in Bangladesh, Sudan, and South Africa. 
