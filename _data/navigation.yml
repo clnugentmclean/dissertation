@@ -21,7 +21,6 @@ main:
         url: /research/references/
 
   - title: "Methodology"
-    url: /methodology/
     children:
       - title: "Word Embedding Models"
         url: /methodology/wems/
