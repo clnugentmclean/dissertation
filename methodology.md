@@ -32,10 +32,11 @@ Setting the parameters for word vector training has significant results on the m
 The window size parameter determines the size of the window that is sliding along the text when the model is trained. For example, a window size of 5 means that the window will look at the five words before the target word, the target word, and the five words after. The words before and after form the context of the target word. Every single word in the corpus is treated as the target word in the process of training, which is part of why training a word embedding model takes significant processing power and time. Some claim a larger window size leads to embeddings where cosine similarity reveals the semantic relations of words, as opposed to smaller window sizes which can produce “interchangeable” words.  In other words, larger windows tend to contain more semantic information, while shorter windows tend to contain more syntactical information. Choosing an optimal window size for word embedding models is ultimately at the discretion of the researcher, although some suggest that the window should not be too small (i.e. <5 words).  
     
 To demonstrate what the window size parameters does, I trained a model on my Rushdie Affair corpus (December 1, 1988-March 31, 1989) with a window size of 2 and a window size of 11. In **Figure 1**, I queried the closest words to fast for both the models because common adjectives can be useful in visualizing the difference between semantics and syntax. 
- 
-![Figure 1: Window Size Comparison. Credit: Colleen Nugent McLean.
-Alt text: Two lists showing the top twenty closest words to the word fast. 
-The list on the left had a model window size of 2, and the list on the right had a model window size of 11.](/dissertation/assets/images/intro_fig-1.png){: .align-left} 
+
+<figure>
+  <img src="/dissertation/assets/images/intro_fig-1.png" alt="Two lists showing the top twenty closest words to the word fast. The list on the left had a model window size of 2, and the list on the right had a model window size of 11." width="400">
+  <figcaption>Figure 1: Window Size Comparison. Credit: Colleen Nugent McLean.</figcaption>
+</figure>
 
 **Figure 1** included all words with at least 0.60 cosine similarity to fast for the model trained with a window size of 11. The smaller the window size, the less contextual information the model has to build its embedding, thus smaller window sizes tend to also feature lower cosine similarities. This can be seen in **Figure 1**, where there were only two terms that had at least 0.60 cosine similarity to fast. The presence of mouthwatering highlights the issues that come with using a too small window size, notably the higher chance of erroneous results.  
 
@@ -50,7 +51,7 @@ The list on the list was trained with 500 vectors, the list on the right was tra
 The model algorithm determines word embeddings, in part, by looking at which other words tend to appear next to the target word. If all example pairs are positive, i.e. neighbors, this can create a bad model that claims 100% accuracy.  Embedding models need negative samples, or samples of words that are not neighbors, as part of the training process to produce a good model. Best practices suggest that between 5 and 20 is a good range for negative samples when training a word embedding model.  While adjusting the parameter can affect the model, it is not nearly as visible as adjusting the window size and number of vectors. I trained a model with 5 negative samples and 15 negative samples, and the effect is not immediately noticeable in the results. 
 For all my case studies, I trained a variety of models using both identical and different parameters for the full corpus. In total, I trained five models with identical parameters  on the full corpus for each chapter. I trained each corpus five times with the exact same parameters, to ensure that the results were not drastically different. Because word embedding models are nondeterministic, it is important to compare multiple models trained on the same parameters to ensure there are not dramatic changes. Results that consistently appear across models are much more significant than the specific placement of words on lists for an individual model. In each chapter, I go into more detail on the parameters used to train the corpus. 
  
-[Figure 3: Five Models Compared. Credit: Colleen Nugent McLean.
+![Figure 3: Five Models Compared. Credit: Colleen Nugent McLean.
 Alt text: Five lists showing the top twenty closest words to the word fanatical. 
 The words that appear in at least four of the lists are bolded.](/dissertation/assets/images/intro_fig-3.png){: .align-left}
 

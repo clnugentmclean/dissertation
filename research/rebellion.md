@@ -2,6 +2,9 @@
 title: "1857 Sepoy Rebellion"
 layout: single
 permalink: /research/casestudies/rebellion/
+header:
+  image: /assets/images/ch-1_fig-1.png
+  caption: "Photo credit: Colleen Nugent McLean"
 ---
 
 There is no shortage of historical works that make a case for the intensity of anti-Muslim rhetoric from the British during this rebellion.  I chose the Rebellion because it was an explosive event involving Muslims that converged with the expansion of the press. I use the first case study to test both the efficacy of the methods and the validity of the existing historiographic arguments. The existing historiography makes such a strong case that the Rebellion was a significant moment when the language about Muslims changed to be much more associated with fanaticism and violence that it can be used in this context to prove that the digital methods are working effectively.
