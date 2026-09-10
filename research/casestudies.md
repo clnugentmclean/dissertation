@@ -4,7 +4,7 @@ layout: single
 permalink: /research/casestudies/
 ---
 
-This study is invested in comparing the rhetoric of the colonial period with that of the [Rushdie Affair](ttps://clnugentmclean.github.io/dissertation/research/casestudies/rushdie/). To do so, I selected three case studies to analyze and compare:
+This study is invested in comparing the rhetoric of the colonial period with that of the [Rushdie Affair](https://clnugentmclean.github.io/dissertation/research/casestudies/rebellion/). To do so, I selected three case studies to analyze and compare:
 
 <details>
 <summary><strong><a href="https://clnugentmclean.github.io/dissertation/research/casestudies/rebellion/">1857 Sepoy Rebellion</a></strong></summary>
