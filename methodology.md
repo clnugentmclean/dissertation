@@ -33,9 +33,9 @@ The window size parameter determines the size of the window that is sliding alon
     
 To demonstrate what the window size parameters does, I trained a model on my Rushdie Affair corpus (December 1, 1988-March 31, 1989) with a window size of 2 and a window size of 11. In **Figure 1**, I queried the closest words to fast for both the models because common adjectives can be useful in visualizing the difference between semantics and syntax. 
  
-Figure 1: Window Size Comparison. Credit: Colleen Nugent McLean.
+[Figure 1: Window Size Comparison. Credit: Colleen Nugent McLean.
 Alt text: Two lists showing the top twenty closest words to the word fast. 
-The list on the left had a model window size of 2, and the list on the right had a model window size of 11. !!!!! ADD IMAGE!
+The list on the left had a model window size of 2, and the list on the right had a model window size of 11.](/dissertation/assets/images/intro_fig-1.png){: .align-left} 
 
 **Figure 1** included all words with at least 0.60 cosine similarity to fast for the model trained with a window size of 11. The smaller the window size, the less contextual information the model has to build its embedding, thus smaller window sizes tend to also feature lower cosine similarities. This can be seen in **Figure 1**, where there were only two terms that had at least 0.60 cosine similarity to fast. The presence of mouthwatering highlights the issues that come with using a too small window size, notably the higher chance of erroneous results.  
 
