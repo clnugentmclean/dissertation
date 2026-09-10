@@ -7,4 +7,6 @@ This website accompanies Colleen Nugent McLean's dissertation *"Mussulman Fanati
 
 [Launch the Word Vector Tool →](https://01a06dc1-24dc-e6fa-2dce-f8110e063dce.share.connect.posit.cloud){: .btn .btn--primary .btn--large}
 
+*Note*: These models are very large (dealing with 80+ million words each), so they may take 20-30 seconds to load intially. Once they have been loaded once, they will remain loaded for the entirety of your session.
+
 [Read more about the Word Vector Interface developed by the Women Writers Project.](https://wwp.northeastern.edu/lab/wwvt/methodology/)
