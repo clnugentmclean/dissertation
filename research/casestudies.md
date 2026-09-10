@@ -4,13 +4,13 @@ layout: single
 permalink: /research/casestudies/
 ---
 
-This study is invested in comparing the rhetoric of the colonial period with that of the Rushdie Affair. To do so, I selected three case studies to analyze and compare:
+This study is invested in comparing the rhetoric of the colonial period with that of the [Rushdie Affair](ttps://clnugentmclean.github.io/dissertation/research/casestudies/rushdie/). To do so, I selected three case studies to analyze and compare:
 
-##### [Sepoy Rebellion](https://clnugentmclean.github.io/dissertation/research/casestudies/rebellion/)
+- [Sepoy Rebellion](https://clnugentmclean.github.io/dissertation/research/casestudies/rebellion/)
 
-##### [1898](https://clnugentmclean.github.io/dissertation/research/casestudies/1898/) 
+- [1898](https://clnugentmclean.github.io/dissertation/research/casestudies/1898/) 
 
-##### [German-Ottoman Jihad](https://clnugentmclean.github.io/dissertation/research/casestudies/jihad/)
+- [German-Ottoman Jihad](https://clnugentmclean.github.io/dissertation/research/casestudies/jihad/)
 
 I chose these three case studies because they have been identified by other historians as significant moments in the construction of the British perception of Muslims as inherently ‘violent’ and ‘fanatical’. These were also moments of insecurity for the British Empire, in varying degrees, and I demonstrate that British rhetoric was more vitriolic in moments of insecurity. Islam, and the public perception of it, played a significant role in all these events, and, more importantly, these events also spurred significant discursive activity that reveals the way Britons themselves talked about Islam. 
 
@@ -32,5 +32,4 @@ My third case study, the Ottoman proclamation of jihad in 1914, was a global eve
 My three case studies are all prominent examples of moments of British insecurity, in which Muslims were believed to be the primary opponents. They are each representative of different ways Britons felt their dominance threatened by Muslims during the colonial period. The Rebellion is an example of an uprising of colonial subjects, of which the Rebellion was not the first nor the last example. Omdurman is an example of a battle for colonial conquest, which occurred quite frequently throughout the colonial period, especially at the end of the nineteenth century during the Scramble for Africa. The First World War in general was a moment of global insecurity, felt especially strongly by those with large empires including the British and French. The jihad declaration is an example of the fear that came along with the size of the Empire, specifically the fear of losing control over the colonial subjects who were fighting in their armies. This project considers how this insecurity shaped discourse around Muslims in the empire and how that informed the development of the anti-Muslim rhetoric that exploded once again in the British popular press during the Rushdie Affair.
 
 Although historians agree that these case studies represent moments of increased anti-Muslim rhetoric, no one has yet tried to measure this or demonstrate either change or continuity over time. Digital methods now allow for this. Compared to traditional qualitative research, computational text analysis can identify structures and patterns within the textual corpus on a scale that cannot be discerned by the human eye alone. In addition, word embedding models can also identify words that share similar linguistic contexts, providing a novel angle to the study of historical texts. By using this methodology, this project confidently describes the general patterns and direction of the language around Islam during these case studies, because it considers the entirety of *The Times* for each period. When doing close reading, it is unlikely that a scholar would spend their time reading articles that are seemingly unrelated to the event at hand. My [methodology](https://clnugentmclean.github.io/dissertation/methodology/), because of the decision to include the entirety of the issues of The Times for the whole period, will also be able to pick up any reference to Islam, even if it is a passing comment within an article or an advertisement.
-
 
