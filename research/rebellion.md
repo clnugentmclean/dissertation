@@ -2,13 +2,18 @@
 title: "1857 Sepoy Rebellion"
 layout: single
 permalink: /research/casestudies/rebellion/
-header:
-  image: /assets/images/ch-1_fig-1.png
-  caption: "Photo credit: Colleen Nugent McLean"
 ---
 
 There is no shortage of historical works that make a case for the intensity of anti-Muslim rhetoric from the British during this rebellion.  I chose the Rebellion because it was an explosive event involving Muslims that converged with the expansion of the press. I use the first case study to test both the efficacy of the methods and the validity of the existing historiographic arguments. The existing historiography makes such a strong case that the Rebellion was a significant moment when the language about Muslims changed to be much more associated with fanaticism and violence that it can be used in this context to prove that the digital methods are working effectively.
 
+To get a better sense of the correlation between this event and discussion of Muslims in *The Times*, I used the full corpus of 1856–1859 to create a visualization tracking usage over time. The below visualization (Figure 1) tracks the use of the terms mussulman, mussulmans, mahomedan, and mahomedans in *The Times* of London from January 1, 1856 through December 31, 1859. As mentioned in the introduction, I made a shortlist of terms for Muslims that would be most relevant for each case study. In this case, I initially included the terms moslem and moslems, but these terms were used so infrequently that they did not have measurable results
+
+<img src="/assets/images/ch-1_fig-1.png" width="400>
+
+
+This diagram shows the percentage of issues in The Times that used any of the four terms identified for Muslims. The vertical lines on this graph represent each month. The larger bolded lines are smoothed to ease in interpretation, while the lighter lines represent the actual distribution. In 1856, monthly percentages of issues of The Times that contained these terms ranged between 0–20%; with an outlier of mussulman in January of 1856 being present in ~40% of issues that month. In the first four months of 1857, the percentage of issues containing these terms was between 0–15% depending on the specific term. The gray dotted vertical lines represent the start and end of the Rebellion respectively. There is a clear and dramatic spike that is directly correlated with the Rebellion, with a peak of ~75% of monthly issues containing the term mahomedan in October 1857. All four terms peak in October 1857 and all fall back to their pre-Rebellion levels by its end. This marked growth in coverage of Muslims during the Rebellion demonstrates an increase in public discourse about Muslims. 
+
+## Background 
 The 1857 Rebellion looms large in both the historiography of colonial India and of the British Empire more generally.  The Uprising (from May 1857 until November 1858) was a rebellion of the Bengal Army against the rule of the British East India Company. It was incredibly violent, resulting in over 100,000 Indians and around 6,000 British deaths.  The Rebellion was the most serious military challenge to the British Empire during the nineteenth century, and as such has continued to hold a place of primacy within the histories of both South Asia and of British colonialism.  There are also many primary sources available on the Rebellion. 
 During the nineteenth century, India was the largest and most profitable colony in the British Empire. The discourse in the British press surrounding the Rebellion was shaped by the belief that the Empire could not afford to lose control of India. British military officers were increasingly involved in the use of the media to drive public opinion during this event, playing a formative role in the shaping of British popular culture for the rest of the nineteenth century.  Many of the articles in The Times that discuss the Rebellion were written by military officials who were also serving as war correspondents. 
 
