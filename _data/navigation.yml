@@ -22,3 +22,8 @@ main:
 
   - title: "Methodology"
     url: /methodology/
+    children:
+      - title: "Word Embedding Models"
+        url: /methodology/wems/
+      - title: "Corpus"
+        url: /methodology/corpus/  
