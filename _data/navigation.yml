@@ -2,8 +2,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "About"
-    url: /about/
+  - title: "Abstract"
+    url: /abstract/
 
   - title: "Word Vector Tool"
     url: https://01a06dc1-24dc-e6fa-2dce-f8110e063dce.share.connect.posit.cloud
