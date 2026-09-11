@@ -11,13 +11,14 @@ This study is invested in comparing the rhetoric of the colonial period with tha
 <br>
 My first case study is the 1857 Rebellion in colonial India. The Rebellion, sometimes referred to as the Indian Mutiny or the Sepoy Mutiny, was a major uprising against the rule of the British East India Company, and ran from May 1857 until November 1858. This was a watershed moment in the history of the British press and anti-Muslim rhetoric. The Rebellion was the second international and first colonial event, after the Crimean War, to receive widespread coverage in a markedly expanding British press. This occurred concurrently with a stark reduction in taxes on printing, meaning more Britons were reading newspapers in the mid nineteenth century than ever before. The frequent attention in the British press given to the Rebellion made it a salient issue for both contemporary Britons and historians of the British Empire. Ilyse Morgenstein Fuerst argues that the Rebellion was the moment that Muslims became defined by the British as essentially religious actors.  The way the British categorized religion in India dramatically changed how religion—as a category—was applied to people across the British Empire and within the borders of the metropole. Religion, along with race, became a central node for how the British classified colonized people in the Empire. Specifically, the Rebellion was a crucial event in the racialization of Muslims as a group under imperial classifications. 
 </details>
+<br>
 
 <details>
 <summary><strong><a href="https://clnugentmclean.github.io/dissertation/research/casestudies/1898/">1898</a></strong></summary>
 <br>
 My second case study moves forward forty years to the 1898 Battle of Omdurman, which occurred during the British conquest of Sudan in the late nineteenth century. The battle, on September 2, 1898, was a part of the successful British colonial conquest of the Sudan. The historiography on Omdurman indicated that the battle precipitated an increase in anti-Muslim rhetoric in Britain.  I chose Omdurman not because it was unique, but because it is representative of the period of High Imperialism (1880–1914). The public interest in empires increased during this period, with substantial reporting in British newspapers focused on events in the Empire and the world. I could have chosen any number of events involving Muslims from this period and gotten similar results in the analysis. Due to the data constraints of digital text analysis, I am unable to focus on the entire period from 1857–1915. That is why I chose case studies that had been identified as connected to anti-Muslim thought, while also seeking to select case studies that occurred at different times throughout the period. I chose case studies that span the geographic reach of the empire, to obtain a more complete picture of how events of the colonial period shaped British perceptions of Islam.
 </details> 
-
+<br>
 <details>
 <summary><strong><a href="https://clnugentmclean.github.io/dissertation/research/casestudies/jihad/">German-Ottoman Jihad</a></strong></summary>
 <br>
