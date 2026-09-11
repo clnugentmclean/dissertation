@@ -9,6 +9,15 @@ main:
     url: https://01a06dc1-24dc-e6fa-2dce-f8110e063dce.share.connect.posit.cloud
     target: _blank
 
+  - title: "Methodology"
+    children:
+      - title: Methods
+        url: /methodology/methods/
+      - title: "Corpus"
+        url: /methodology/corpus/
+      - title: "Word Embedding Models"
+        url: /methodology/wems/
+        
   - title: "Research"
     children:
       - title: "Argument"
@@ -20,12 +29,5 @@ main:
       - title: "References"
         url: /research/references/
 
-  - title: "Methodology"
-    children:
-      - title: Methods
-        url: /methodology/methods/
-      - title: "Corpus"
-        url: /methodology/corpus/
-      - title: "Word Embedding Models"
-        url: /methodology/wems/
+
         
