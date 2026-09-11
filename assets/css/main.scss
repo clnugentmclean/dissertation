@@ -34,15 +34,19 @@
 
 /* Sticky header */
 .masthead {
-  position: fixed;
+  position: fixed !important;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 20;
+  z-index: 9999;
+  background-color: #F7F9FA; /* match your site's actual masthead color */
 }
 
-/* Push page content down so it isn't hidden under the fixed header */
 .initial-content,
 .page {
-  padding-top: 90px; /* match your header's actual height */
+  padding-top: 80px; /* was 90px, now matches actual header height */
+}
+
+:target {
+  scroll-margin-top: 90px; /* 80px header + ~10px breathing room */
 }
