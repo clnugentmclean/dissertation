@@ -15,9 +15,9 @@ main:
         url: /methodology/methods/
       - title: "Corpus"
         url: /methodology/corpus/
-      - title: "Word Embedding Models"
+      - title: "Word Embedding"
         url: /methodology/wems/
-        
+
   - title: "Research"
     children:
       - title: "Argument"
