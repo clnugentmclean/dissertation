@@ -13,6 +13,8 @@ main:
         url: /methodology/corpus/
       - title: "Word Embedding"
         url: /methodology/wems/
+      - title: "Semantic Proximity"
+        url: /methodology/proximity/
 
   - title: "Research"
     children:
