@@ -1,5 +1,5 @@
 ---
-title: "Word Embedding Models"
+title: Word Embedding Models
 layout: single
 permalink: /methodology/wems/
 ---
